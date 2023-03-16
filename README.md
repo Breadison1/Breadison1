@@ -1,4 +1,4 @@
-# Всем привет, меня зовут Илья 👋
+# Всем привет👋
 ## Обо мне
 
 [![codewars](https://www.codewars.com/users/Breadison/badges/large)](https://www.codewars.com/users/Breadison)
